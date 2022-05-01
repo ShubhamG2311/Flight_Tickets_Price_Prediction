@@ -1,0 +1,47 @@
+body {
+    /* background-color: #360572; */
+    background-image: url("image.jpg");
+    text-align: center;
+    /* background-image: url("https://media.istockphoto.com/photos/teamwork-network-and-community-concept-picture-id1290692464?b=1&k=20&m=1290692464&s=170667a&w=0&h=dqOKmx-eAr8otIlDUgr6wtFQVq4ssywThTOnyhOpiA0="); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.navbar {
+    background-color: #333333;
+    text-align: center;
+}
+
+.predictions {
+    background-color: hsl(0, 12%, 15%);
+    color: white;
+    /* position: absolute; */
+    background-size: cover;
+    /* padding-right: 0%; */
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+footer {
+    text-align: center;
+    padding: 7px;
+    background-color: rgb(6, 6, 6);
+    color: white;
+    /* margin-top: ; */
+  }
+
+.container-fluid 
+{
+    text-align: center;
+    margin-left: 40%;
+}
